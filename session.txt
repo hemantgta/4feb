@@ -1,0 +1,85 @@
+typerscript is clean code
+its is maintaineable code
+js code is sphaghetti code 
+
+ravioli code(js pattern)
+
+typescript datatypes 
+typescript class,constructor, import and export in typescript
+
+
+ts config
+
+module d.ts file (declaration file (only declaration not implementations))
+
+ts inheritance 
+create managaer class 
+have extra function 
+implement super keyword with inheritance
+
+
+<!------------------------>
+Angular 
+
+for powerful single page aapplicaTIONS
+
+
+1)not a javascript library
+2)not a platform 
+3)not a plugin or extension.
+4)not a server side framework
+
+WHY USE ANGULAR?
+-rapid developmen t and code generatrion
+-code organisation and productivity
+-dynamic content
+-cross platform
+-unit testing ready
+
+
+e2e (end to end test cases)
+
+main.ts (entry point) inside the src folder.
+
+app folder contains components that get rendered in browser.
+component in angular
+
+root angular module and feature angular module
+
+string interpolation
+
+ng g c components/Footer
+
+
+
+create aquiz app
+
+
+
+
+header footer main component in that
+
+boostrap in your project
+
+data binding 
+
+directives are something that used power up to a html
+
+directives(
+1)*ngIf
+
+2)*ngFor 
+
+
+note : these provide loops and condition checking during runtime
+
+ng directives
+
+interpolation
+(not : {{some object}} will return only string)
+
+property binding : it is type of one way data binding
+
+->for eg  : img [src] =product.imageurl;
+
+event binding
